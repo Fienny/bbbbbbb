@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b2b8e1d.css",
+    "main.js": "/static/js/main.b225ca90.js",
+    "static/media/image 4.png": "/static/media/image 4.18384771e3be328a8415.png",
+    "static/media/image 3.png": "/static/media/image 3.687c911df5d2875256e7.png",
+    "static/media/image 2.png": "/static/media/image 2.d14df67815a9e52da1dd.png",
+    "static/media/image 1.png": "/static/media/image 1.f780337f9657c4dd93c3.png",
+    "static/media/image 5.png": "/static/media/image 5.6a86ffb454e6dd8f4ffe.png",
+    "static/media/desc_img.png": "/static/media/desc_img.0a33d0ccca7135bdb39d.png",
+    "static/media/image 6.png": "/static/media/image 6.9ae44470336b3fda4e0a.png",
+    "static/media/postgresql-svgrepo-com.svg": "/static/media/postgresql-svgrepo-com.9aed68683d15cfc3c3fd8ddf1d89ff4e.svg",
+    "static/media/react-svgrepo-com.svg": "/static/media/react-svgrepo-com.598d90dd4f36234e376cbc6ccd571550.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.9a531aa03109ef4b71ea09098c8d0296.svg",
+    "static/media/GitHub.svg": "/static/media/GitHub.8cda0a6d0efcd30780dc2697ae261466.svg",
+    "static/media/LinkedIn.svg": "/static/media/LinkedIn.b443a5aaec4b90b32a6d8a48c7ba2646.svg",
+    "static/media/python-svgrepo-com.svg": "/static/media/python-svgrepo-com.4298525c028749eb4fa154f8f5bd1931.svg",
+    "static/media/sqlite-svgrepo-com.svg": "/static/media/sqlite-svgrepo-com.bfd5005b0b5ce99bb6f646f9c1bacd59.svg",
+    "static/media/django-icon-svgrepo-com.svg": "/static/media/django-icon-svgrepo-com.b062878ade3e5d6fdd56c82c5a1ca0ca.svg",
+    "static/media/js-svgrepo-com.svg": "/static/media/js-svgrepo-com.fef7215d0d3e578f01ad70419d4c4308.svg",
+    "index.html": "/index.html",
+    "static/media/css-3-svgrepo-com.svg": "/static/media/css-3-svgrepo-com.315b8fdb9dbf75ae965b80bf368895cd.svg",
+    "static/media/html-5-svgrepo-com.svg": "/static/media/html-5-svgrepo-com.0107c93943a8f415b5db64ebb0a9d12d.svg",
+    "main.8b2b8e1d.css.map": "/static/css/main.8b2b8e1d.css.map",
+    "main.b225ca90.js.map": "/static/js/main.b225ca90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b2b8e1d.css",
+    "static/js/main.b225ca90.js"
+  ]
+}
